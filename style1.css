@@ -1,0 +1,512 @@
+.frame-6,
+.frame-6 * {
+  box-sizing: border-box;
+}
+.frame-6 {
+  background: #ffffff;
+  height: 2871px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-2 {
+  border-radius: 2px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 1px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.biru-1 {
+  width: 100%;
+  height: 2752px;
+  position: absolute;
+  right: 11px;
+  left: -7px;
+  top: 143px;
+  object-fit: cover;
+}
+.component-11 {
+  width: 1379px;
+  height: 537px;
+  position: absolute;
+  left: calc(50% - 711px);
+  top: 245px;
+}
+.component-1 {
+  border-radius: var(--corner-extra-large, 28px);
+  width: 35.9%;
+  height: 18.92%;
+  position: absolute;
+  right: 0%;
+  left: 64.1%;
+  bottom: 50.68%;
+  top: 30.41%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-5 {
+  background: rgba(0, 122, 255, 0.15);
+  border-radius: 4px;
+  width: 95.24%;
+  height: 89.47%;
+  position: absolute;
+  right: 0%;
+  left: 4.76%;
+  bottom: 10.53%;
+  top: 0%;
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 4px;
+  width: 95.24%;
+  height: 89.47%;
+  position: absolute;
+  right: 4.76%;
+  left: 0%;
+  bottom: 0%;
+  top: 10.53%;
+}
+.profil {
+  color: #00b2ff;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 65.4%;
+  left: 19.05%;
+  width: 15.55%;
+  bottom: 32.63%;
+  top: 29.97%;
+  height: 37.4%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-2 {
+  width: 35.9%;
+  height: 18.92%;
+  position: absolute;
+  right: 0%;
+  left: 64.1%;
+  bottom: 25.68%;
+  top: 55.41%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.profil2 {
+  color: #00b2ff;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 50.04%;
+  left: 19.05%;
+  width: 30.91%;
+  bottom: 32.63%;
+  top: 29.97%;
+  height: 37.4%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-3 {
+  width: 35.9%;
+  height: 18.92%;
+  position: absolute;
+  right: 0%;
+  left: 64.1%;
+  bottom: 0.68%;
+  top: 80.41%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.profil3 {
+  color: #00b2ff;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 61.96%;
+  left: 19.05%;
+  width: 18.99%;
+  bottom: 32.63%;
+  top: 29.97%;
+  height: 37.4%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-5 {
+  width: 52.99%;
+  height: 69.59%;
+  position: absolute;
+  right: 47.01%;
+  left: 0%;
+  bottom: 0%;
+  top: 30.41%;
+}
+.pngtree-hand-drawn-doodle-blank-speech-6956074-1 {
+  opacity: 0.7;
+  width: 96.77%;
+  height: 95.15%;
+  position: absolute;
+  right: 0%;
+  left: 3.23%;
+  bottom: 0%;
+  top: 4.85%;
+  filter: blur(2px);
+  object-fit: cover;
+}
+.pngtree-hand-drawn-doodle-blank-speech-6956074-2 {
+  width: 96.77%;
+  height: 95.15%;
+  position: absolute;
+  right: 3.23%;
+  left: 0%;
+  bottom: 4.85%;
+  top: 0%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.pengaduan-masyarakat-kecamatan-kaliwungu {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  right: 12.39%;
+  left: 18.38%;
+  width: 69.23%;
+  bottom: 69.59%;
+  top: 0%;
+  height: 30.41%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px rgba(0, 122, 255, 0.15);
+}
+.component-10 {
+  height: 216px;
+  position: absolute;
+  right: 0px;
+  left: -12px;
+  top: 0px;
+}
+.rectangle-1 {
+  background: var(--backgrounds-primary, #ffffff);
+  width: 98.89%;
+  height: 58.46%;
+  position: absolute;
+  right: 0%;
+  left: 1.11%;
+  bottom: 26.15%;
+  top: 15.38%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.pelayanan-masyarakat-1 {
+  width: 17.73%;
+  height: 100%;
+  position: absolute;
+  right: 82.27%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.tentang-kami {
+  color: rgba(0, 122, 255, 0.53);
+  text-align: center;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 11.31%;
+  left: 72.35%;
+  width: 16.34%;
+  bottom: 46.35%;
+  top: 35.19%;
+  height: 18.46%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.faq {
+  color: rgba(0, 122, 255, 0.53);
+  text-align: center;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 4.43%;
+  left: 90.3%;
+  width: 5.26%;
+  bottom: 46.15%;
+  top: 35.38%;
+  height: 18.46%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-16 {
+  height: 871px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 896px;
+}
+.rectangle-9 {
+  background: #ffffff;
+  border-radius: var(--corner-extra-large, 28px);
+  width: 100%;
+  height: 69.92%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 11.6%;
+  top: 18.48%;
+}
+.perancangan-aplikasi-aduan-ku-diharapkan-dapat-menyelesaikan-kendala-yang-dirasakan-masyarakat-kecamatan-kaliwungu-untuk-mengirimkan-keluh-kesah-mereka-secara-online-dan-tanpa-harus-datang-ke-kantor-camat-kaliwungu-dan-ini-dapat-serta-dapat-membantu-tata-usaha-petugas-dan-kepala-suku-dinas-dalam-melakukan-pendataan-pengaduan-masyarakat-kecamatan-kaliwungu {
+  color: #00b2ff;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 32px;
+  line-height: var(--display-large-line-height, 64px);
+  font-weight: 400;
+  position: absolute;
+  right: 2.77%;
+  left: 3.7%;
+  width: 93.53%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-10 {
+  background: #ffffff;
+  border-radius: var(--corner-extra-large, 28px);
+  width: 42.01%;
+  height: 9.99%;
+  position: absolute;
+  right: 29.46%;
+  left: 28.53%;
+  bottom: 79.68%;
+  top: 10.33%;
+}
+.tentang-kami2 {
+  color: #00b2ff;
+  text-align: center;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  right: 29.99%;
+  left: 28.93%;
+  width: 41.08%;
+  bottom: 84.16%;
+  top: 12.97%;
+  height: 2.87%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-102 {
+  height: 360px;
+  position: absolute;
+  right: 5px;
+  left: 0px;
+  top: 2535px;
+}
+.component-103 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.rectangle-8 {
+  background: #ffffff;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.pelayanan-masyarakat-2 {
+  width: 17.88%;
+  height: 60.19%;
+  position: absolute;
+  right: 73.74%;
+  left: 8.38%;
+  bottom: 33.33%;
+  top: 6.48%;
+  object-fit: cover;
+}
+.pengaduan-masyarakat-kaliwungu {
+  color: #000000;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 68.16%;
+  left: 2.79%;
+  width: 29.05%;
+  bottom: 40.19%;
+  top: 53.15%;
+  height: 6.67%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.disusun-oleh {
+  color: #000000;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  right: 29.81%;
+  left: 56.42%;
+  width: 13.76%;
+  bottom: 72.87%;
+  top: 15.19%;
+  height: 11.94%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._1-syaddad-hasanuddin-al-khalish-0076744555-2-ramadan-0076013735-3-muhammad-ilham-hasan-0093193030-4-muhammad-dwi-khaisan-0082386532 {
+  color: #000000;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 33.91%;
+  left: 37.43%;
+  width: 28.66%;
+  bottom: 29.26%;
+  top: 44.07%;
+  height: 26.67%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-17 {
+  height: 757px;
+  position: absolute;
+  right: 23px;
+  left: 12px;
+  top: 1676px;
+}
+.faq2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  right: 41%;
+  left: 42.66%;
+  width: 16.34%;
+  bottom: 89.83%;
+  top: 0%;
+  height: 10.17%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-16 {
+  background: #ffffff;
+  border-radius: 40px;
+  width: 100%;
+  height: 87.32%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 12.68%;
+}
+.apa-yang-bisa-dilakukan-di-aplikasi-ini {
+  color: #00b2ff;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 20px;
+  line-height: var(--display-large-line-height, 64px);
+  font-weight: 400;
+  position: absolute;
+  right: 44.32%;
+  left: 6.23%;
+  width: 49.45%;
+  bottom: 32.5%;
+  top: 61.03%;
+  height: 6.47%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.melalui-aduan-ku-anda-dapat-menyampaikan-permasalahan-pelayanan-publik-yang-anda-temui-sehingga-laporanmu-dapat-kami-sampaikan-ke-instansi-terkait {
+  color: #00b2ff;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 20px;
+  line-height: var(--display-large-line-height, 64px);
+  font-weight: 400;
+  position: absolute;
+  right: 31.99%;
+  left: 5.4%;
+  width: 62.6%;
+  bottom: 4.62%;
+  top: 69.88%;
+  height: 25.5%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tujuan-dari-diciptakannya-aplikasi-aduan-ku-adalah-untuk-memberikan-kemudahan-bagi-masyarakat-dalam-menyampaikan-permasalahan-yang-ada-pada-pelayanan-publik-jika-sebelumnya-bagi-masyarakat-yang-mendapat-keluhan-pada-pelayanan-publik-harus-datang-secara-langsung-ke-kantor-pelayanan-menyampaikan-keluhan-secara-manual {
+  color: #00b2ff;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 20px;
+  line-height: var(--display-large-line-height, 64px);
+  font-weight: 400;
+  position: absolute;
+  right: 1.11%;
+  left: 5.4%;
+  width: 93.49%;
+  bottom: 26.16%;
+  top: 6.34%;
+  height: 67.5%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.apa-tujuan-dibuatnya-aplikasi-ini {
+  color: #00b2ff;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 20px;
+  line-height: var(--display-large-line-height, 64px);
+  font-weight: 400;
+  position: absolute;
+  right: 45.98%;
+  left: 6.93%;
+  width: 47.09%;
+  bottom: 73.98%;
+  top: 11.62%;
+  height: 14.4%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}

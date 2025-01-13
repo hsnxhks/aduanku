@@ -1,0 +1,420 @@
+.frame-5,
+.frame-5 * {
+  box-sizing: border-box;
+}
+.frame-5 {
+  background: #ffffff;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 1px;
+  height: 2314px;
+  position: relative;
+  overflow: hidden;
+}
+.biru-1 {
+  width: 100%;
+  height: 2957px;
+  position: absolute;
+  right: -16px;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.component-8 {
+  height: 318px;
+  position: absolute;
+  right: -5px;
+  left: 2px;
+  top: 1996px;
+}
+.rectangle-8 {
+  background: #ffffff;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.pelayanan-masyarakat-2 {
+  width: 17.88%;
+  height: 60.19%;
+  position: absolute;
+  right: 73.74%;
+  left: 8.38%;
+  bottom: 33.33%;
+  top: 6.48%;
+  object-fit: cover;
+}
+.pengaduan-masyarakat-kaliwungu {
+  color: #000000;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  right: 68.16%;
+  left: 2.79%;
+  width: 29.05%;
+  bottom: 30.1%;
+  top: 42.85%;
+  height: 27.04%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.disusun-oleh {
+  color: #000000;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  right: 30.98%;
+  left: 56.42%;
+  width: 12.59%;
+  bottom: 72%;
+  top: 14.48%;
+  height: 13.52%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._1-syaddad-hasanuddin-al-khalish-0076744555-2-ramadan-0076013735-3-muhammad-ilham-hasan-0093193030-4-muhammad-dwi-khaisan-0082386532 {
+  color: #000000;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  right: 15.38%;
+  left: 37.43%;
+  width: 47.19%;
+  bottom: 15.76%;
+  top: 30.15%;
+  height: 54.09%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-11 {
+  height: 216px;
+  position: absolute;
+  right: 0px;
+  left: -19px;
+  top: -38px;
+}
+.rectangle-1 {
+  background: var(--backgrounds-primary, #ffffff);
+  width: 98.89%;
+  height: 58.46%;
+  position: absolute;
+  right: 0%;
+  left: 1.11%;
+  bottom: 26.15%;
+  top: 15.38%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.pelayanan-masyarakat-1 {
+  width: 17.73%;
+  height: 100%;
+  position: absolute;
+  right: 82.27%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.tentang-kami {
+  color: rgba(0, 122, 255, 0.53);
+  text-align: center;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  right: 11.31%;
+  left: 72.35%;
+  width: 16.34%;
+  bottom: 46.35%;
+  top: 35.19%;
+  height: 18.46%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.faq {
+  color: rgba(0, 122, 255, 0.53);
+  text-align: center;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  right: 4.43%;
+  left: 90.3%;
+  width: 5.26%;
+  bottom: 46.15%;
+  top: 35.38%;
+  height: 18.46%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-12 {
+  background: #ffffff;
+  border-radius: var(--corner-extra-large, 28px);
+  height: 1612px;
+  position: absolute;
+  right: 131px;
+  left: 130px;
+  top: 252px;
+}
+.sampaikan-laporan-anda {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 309px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px #000000;
+}
+.component-22 {
+  width: 26.16%;
+  height: 107px;
+  position: absolute;
+  right: 15.2%;
+  left: 58.64%;
+  top: 1622px;
+}
+.rectangle-82 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #00ffee;
+  border-width: 2px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.kirim {
+  color: rgba(0, 122, 255, 0.53);
+  text-align: center;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  right: 32.93%;
+  left: 32.93%;
+  width: 34.14%;
+  bottom: 22.43%;
+  top: 23.36%;
+  height: 54.21%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-21 {
+  width: 68.66%;
+  height: 1045px;
+  position: absolute;
+  right: 15.12%;
+  left: 16.22%;
+  top: 480px;
+}
+.rectangle-2 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 99.24%;
+  height: 12.44%;
+  position: absolute;
+  right: 0%;
+  left: 0.76%;
+  bottom: 87.56%;
+  top: 0%;
+  box-shadow: inset 0px 4px 4px 8px rgba(0, 122, 255, 0.53);
+}
+.rectangle-3 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 99.24%;
+  height: 12.44%;
+  position: absolute;
+  right: 0.09%;
+  left: 0.66%;
+  bottom: 70.05%;
+  top: 17.51%;
+  box-shadow: inset 0px 4px 4px 8px rgba(0, 122, 255, 0.53);
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 99.24%;
+  height: 12.44%;
+  position: absolute;
+  right: 0%;
+  left: 0.76%;
+  bottom: 52.54%;
+  top: 35.02%;
+  box-shadow: inset 0px 4px 4px 8px rgba(0, 122, 255, 0.53);
+}
+.rectangle-5 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 99.24%;
+  height: 12.44%;
+  position: absolute;
+  right: 0.76%;
+  left: 0%;
+  bottom: 35.02%;
+  top: 52.54%;
+  box-shadow: inset 0px 4px 4px 8px rgba(0, 122, 255, 0.53);
+}
+.rectangle-6 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 99.24%;
+  height: 12.44%;
+  position: absolute;
+  right: 0.09%;
+  left: 0.66%;
+  bottom: 17.51%;
+  top: 70.05%;
+  box-shadow: inset 0px 4px 4px 8px rgba(0, 122, 255, 0.53);
+}
+.rectangle-7 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 99.24%;
+  height: 12.44%;
+  position: absolute;
+  right: 0%;
+  left: 0.76%;
+  bottom: 0%;
+  top: 87.56%;
+  box-shadow: inset 0px 4px 4px 8px rgba(0, 122, 255, 0.53);
+}
+.judul-laporan {
+  color: rgba(0, 122, 255, 0.53);
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  right: 68.53%;
+  left: 3.59%;
+  width: 27.88%;
+  bottom: 90.91%;
+  top: 3.54%;
+  height: 5.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.isi-laporan {
+  color: rgba(0, 122, 255, 0.53);
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  right: 74.57%;
+  left: 3.69%;
+  width: 21.74%;
+  bottom: 73.59%;
+  top: 20.86%;
+  height: 5.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tanggal-kejadian {
+  color: rgba(0, 122, 255, 0.53);
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  right: 64.37%;
+  left: 2.27%;
+  width: 33.36%;
+  bottom: 56.08%;
+  top: 38.37%;
+  height: 5.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lokasi-kejadian {
+  color: rgba(0, 122, 255, 0.53);
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  right: 67.49%;
+  left: 2.27%;
+  width: 30.25%;
+  bottom: 38.47%;
+  top: 55.98%;
+  height: 5.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tujuan-instansi {
+  color: rgba(0, 122, 255, 0.53);
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  right: 67.49%;
+  left: 2.27%;
+  width: 30.25%;
+  bottom: 21.05%;
+  top: 73.4%;
+  height: 5.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kategori {
+  color: rgba(0, 122, 255, 0.53);
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  right: 80.91%;
+  left: 2.36%;
+  width: 16.73%;
+  bottom: 3.83%;
+  top: 90.62%;
+  height: 5.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
